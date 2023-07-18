@@ -12,3 +12,11 @@ Name | Creator | Release Date | Playercount Record
 [Mineville City](https://mineville.gg/)|InPvP LLC|Wait for info|27,123
 [Galaxite](https://galaxite.net)|Blockception|2020|5,118
 Pixel Paradise|InPvP LLC|2021|4,603
+
+# Discontinued servers
+
+Name | Creator | Release Date | Playercount Record | Closure Date
+|--|--|--|--|--|
+[Mineplex](https://mineplex.net/)|Mineplex LLC|2017 (2013 in Java Edition)|Wait for info|May 16th, 2023
+
+
