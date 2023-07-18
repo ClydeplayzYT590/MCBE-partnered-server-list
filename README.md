@@ -9,13 +9,13 @@ Name | Creator | Release Date | Playercount Record
 [The Hive](https://playhive.com/)|Hive Games|2018|61,385
 [Lifeboat Network](https://lbsg.net/)|Lifeboat Team|2013|60,000
 [CubeCraft Games](https://cubecraft.net)|Ziax LTD|2018 (2012/2013 in Java Edition)|52,226
-[Mineville City](https://mineville.gg/)|InPvP LLC|Wait for info|27,123
+[Mineville City](https://mineville.gg/)|InPvP LLC|2017|27,123
 [Galaxite](https://galaxite.net)|Blockception|2020|5,118
 Pixel Paradise|InPvP LLC|2021|4,603
 
-# Discontinued servers
+# No longer featured
 
-Name | Creator | Release Date | Playercount Record | Closure Date
+Name | Creator | Release Date | Playercount Record | Removal Date
 |--|--|--|--|--|
 [Mineplex](https://mineplex.net/)|Mineplex LLC|2017 (2013 in Java Edition)|18,000 (Unofficial)|May 16th, 2023
 
