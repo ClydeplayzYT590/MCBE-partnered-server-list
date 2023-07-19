@@ -13,7 +13,7 @@ Name | Creator | Release Date | Playercount Record
 [Galaxite](https://galaxite.net)|Blockception|2020|5,118
 Pixel Paradise|InPvP LLC|2021|4,603
 
-# No longer featured
+## No longer featured
 
 Name | Creator | Release Date | Playercount Record | Removal Date
 |--|--|--|--|--|
