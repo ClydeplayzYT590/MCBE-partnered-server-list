@@ -7,7 +7,7 @@
 Name | Creator | Release Date | Playercount Record
 |--|--|--|--|
 [The Hive](https://playhive.com/)|Hive Games|2018|61,385
-[Lifeboat Network](https://lbsg.net/)|Lifeboat Team|2013|60,000
+[Lifeboat Network](https://lbsg.net/)|Lifeboat Team|2013|60,663
 [CubeCraft Games](https://cubecraft.net)|Ziax LTD|2018 (2012/2013 in Java Edition)|52,226
 [Mineville City](https://mineville.gg/)|InPvP LLC|2017|27,123
 [Galaxite](https://galaxite.net)|Blockception|2020|5,118
