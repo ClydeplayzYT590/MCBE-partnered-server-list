@@ -1,4 +1,4 @@
-# Minecraft: Bedrock Edition partnered/featured server list
+## Minecraft: Bedrock Edition partnered/featured server list
 
 > A list of Minecraft: Bedrock Edition Partnered/Featured servers
 
