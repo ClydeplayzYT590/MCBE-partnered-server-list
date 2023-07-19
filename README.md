@@ -17,6 +17,6 @@ Pixel Paradise|InPvP LLC|2021|4,603
 
 Name | Creator | Release Date | Playercount Record | Removal Date
 |--|--|--|--|--|
-[Mineplex](https://mineplex.net/)|Mineplex LLC|2017 (2013 in Java Edition)|18,000 (Unofficial)|May 16th, 2023
+[Mineplex](https://mineplex.com/)|Mineplex LLC|2017 (2013 in Java Edition)|18,000 (Unofficial)|May 16th, 2023
 
 
