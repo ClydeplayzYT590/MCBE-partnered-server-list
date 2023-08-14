@@ -10,7 +10,6 @@ Name | Creator | Release Date | Playercount Record
 [CubeCraft Games](https://cubecraft.net)|Ziax LTD|2018 (2012/2013 in Java Edition)|52,226
 [Mineville City](https://mineville.gg/)|InPvP LLC|2017|27,123
 [Galaxite](https://galaxite.net)|Blockception|2020|5,118
-Pixel Paradise|InPvP LLC|2021|4,603
 [Lifeboat Network](https://lbsg.net/)|Lifeboat Team|2013|N/A (Lost/Unknown)
 
 ## No longer featured
@@ -18,5 +17,6 @@ Pixel Paradise|InPvP LLC|2021|4,603
 Name | Creator | Release Date | Added to FT list | Playercount Record | Removal Date | Server Still Running?
 |--|--|--|--|--|--|--|
 [Mineplex](https://mineplex.com/)|Mineplex LLC|2016 (2013 in Java Edition)|2017|N/A|May 16th, 2023|No
+[Pixel Paradise](https://pixelparadise.gg/)|InPvP LLC|2021|2021|4,603|August 11th, 2023|No
 
 
