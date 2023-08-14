@@ -14,7 +14,7 @@ Name | Creator | Release Date | Playercount Record
 
 ## No longer featured
 
-Name | Creator | Release Date | Added to FT list | Playercount Record | Removal Date | Server Still Running?
+Name | Creator | Release Date | Added to FS list | Playercount Record | Removal Date | Server Still Running?
 |--|--|--|--|--|--|--|
 [Mineplex](https://mineplex.com/)|Mineplex LLC|2016 (2013 in Java Edition)|2017|N/A|May 16th, 2023|No
 [Pixel Paradise](https://www.pixelparadise.gg)|InPvP LLC|2021|2021|4,603|August 11th, 2023|No
